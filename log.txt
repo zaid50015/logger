@@ -1,0 +1,18 @@
+Tue Mar  5 17:13:27 2024	[Debug]	This is a debug message
+Tue Mar  5 17:13:27 2024	[Error]	This is a error message
+Tue Mar  5 17:29:42 2024	[Debug]	This is a debug message
+Tue Mar  5 17:29:42 2024	[Error]	This is a error message
+Tue Mar  5 17:32:54 2024	[Debug]	This is a debug message 50 ,15
+Tue Mar  5 17:32:54 2024	[Error]	This is a error message
+Tue Mar  5 17:35:18 2024	[Debug]	This is a debug message 1 ,2
+Tue Mar  5 17:44:33 2024	[Debug]	This is a debug message 1 ,2
+Tue Mar  5 18:26:51 2024	[Debug]	This is a debug message with line number and file name on line 23 in D:\logger\readWrite.cpp
+Tue Mar  5 18:26:51 2024	[Info]	This is an info message with line number and file name on line 24 in D:\logger\readWrite.cpp
+Tue Mar  5 18:26:51 2024	[Warn]	This is a warning message with line number and file name on line 25 in D:\logger\readWrite.cpp
+Tue Mar  5 18:26:51 2024	[Error]	This is an error message with line number and file name on line 26 in D:\logger\readWrite.cpp
+Tue Mar  5 18:26:51 2024	[Critical]	This is a critical message with line number and file name on line 27 in D:\logger\readWrite.cpp
+Wed Mar  6 14:38:20 2024	[Debug]	This is a debug message with line number and file name on line 23 in D:\logger\mainFunction.cpp
+Wed Mar  6 14:38:20 2024	[Info]	This is an info message with line number and file name on line 24 in D:\logger\mainFunction.cpp
+Wed Mar  6 14:38:20 2024	[Warn]	This is a warning message with line number and file name on line 25 in D:\logger\mainFunction.cpp
+Wed Mar  6 14:38:20 2024	[Error]	This is an error message with line number and file name on line 26 in D:\logger\mainFunction.cpp
+Wed Mar  6 14:38:20 2024	[Critical]	This is a critical message with line number and file name on line 27 in D:\logger\mainFunction.cpp
